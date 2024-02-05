@@ -1,6 +1,2 @@
 uName: theo
 pWord: LouisLitt
-
-
-ch3 tests:
-Hard code the about and index messages (remove base extension)
